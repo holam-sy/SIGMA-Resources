@@ -38,6 +38,7 @@ Resources To Learn And Understand SIGMA Rules
 ## Courses
 
 * [Detection Engineering with Sigma by Applied Network Defense](https://www.networkdefense.co/courses/sigma/)
+* [SOCLabs - Threat Detection Engineer Labs](https://www.soc-labs.top/en/) - Hands-on detection labs with Sigma-oriented rule-writing and SIEM practice.
 
 ## Books
 
